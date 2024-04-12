@@ -1,3 +1,6 @@
+**This script was recently transformed into a package. You can check the updated version on [TelegramR](https://github.com/SoaresAlisson/telegramR).**
+
+---
 # Telegram_exported_chats_report
 Returns a table of several folders containing Telegram exported chats with HTML files addresses, name of the chat, first and last date of each file.
 
